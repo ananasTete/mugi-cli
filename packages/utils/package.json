@@ -1,6 +1,6 @@
 {
   "name": "@mugi-cli/utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "description",
   "author": "李子航 <2045268468@qq.com>",
   "homepage": "",
@@ -18,5 +18,9 @@
   },
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
+  },
+  "gitHead": "4e5bde08294abc8007045e2815770183f3d7b09a",
+  "publishConfig": {
+    "access": "public"
   }
 }
