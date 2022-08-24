@@ -24,6 +24,6 @@
   },
   "gitHead": "3fb907c28b1d9fa48fa987050adedb83097a71d4",
   "devDependencies": {
-    "utils": "file:../utils"
+    "@mugi-cli/utils": "file:../utils"
   }
 }
