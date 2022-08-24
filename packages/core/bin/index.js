@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 
-console.log("hello mugi-cli");
+const yargs = require("yargs/yargs");
+const { hideBin } = require("yargs/helpers");
 
-const utils = require("@mugi-cli/utils");
+const argv = yargs(hideBin(process.argv)).argv;
 
-console.log(utils);
+console.log(argv);
