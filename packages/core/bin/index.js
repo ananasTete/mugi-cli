@@ -2,6 +2,6 @@
 
 console.log("hello mugi-cli");
 
-const utils = require("utils");
+const utils = require("@mugi-cli/utils");
 
 console.log(utils);
