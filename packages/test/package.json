@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "0.0.6",
+  "description": "> TODO: description",
+  "author": "李子航 <2045268468@qq.com>",
+  "homepage": "https://github.com/ananasTete/mugi-cli#readme",
+  "license": "ISC",
+  "main": "lib/test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananasTete/mugi-cli.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/test.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ananasTete/mugi-cli/issues"
+  }
+}

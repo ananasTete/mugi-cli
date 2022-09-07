@@ -16,6 +16,7 @@
     "lerna": "^5.4.3"
   },
   "dependencies": {
+    "commander": "^9.4.0",
     "yargs": "^17.5.1"
   }
 }
